@@ -85,22 +85,17 @@ The distribution is roughly bell-shaped, though slightly skewed.
 # 🛠️ Tech Stack
 
 Python 3.x
-
 Pandas
-
 Numpy
-
 Matplotlib
-
 Seaborn
-
 Jupyter Lab
 
 # 🚀 How to Run
 
 Clone the repository:
 
-git clone https://github.com/your-username/heart-disease-analysis.git cd heart-disease-analysis
+git clone : https://github.com/sahilarora-1/heartdataset_analysis_using_seaborn_and_matplotlib.git
 
 Install dependencies:
 
