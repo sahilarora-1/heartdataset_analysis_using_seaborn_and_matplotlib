@@ -2,7 +2,24 @@
 
 This repository contains exploratory data analysis (EDA) and visualizations on the Cleveland Heart Disease dataset. The goal is to uncover meaningful patterns about heart disease risk factors using Python, Matplotlib, and Seaborn.
 
-📂 Project Structure heart_cleveland_upload- the dataset used HeartDisease.ipynb -Notebook with charts and code README.md - Project documentation
+# DATASET
+The dataset is taken from the UCI Heart Disease Repository and is commonly used for classification tasks. It contains 303 patient records with 14 attributes related to clinical measurements, lifestyle, and medical test results. The target variable indicates the presence of heart disease (1 = disease, 0 = no disease).
+
+Key features include:
+Age – Patient’s age in years
+Sex – Male or Female
+cp – Chest pain type (typical angina, atypical angina, non-anginal pain, asymptomatic)
+trestbps – Resting blood pressure (mm Hg)
+chol – Serum cholesterol (mg/dl)
+thalach – Maximum heart rate achieved
+thal – Thallium stress test result (normal, fixed defect, reversible defect)
+target (condition) – 1 = heart disease present, 0 = no heart disease
+
+📂 Project Structure
+HeartDisease.ipynb -Notebook with charts and code 
+README.md - Project documentation and screenshots of charts
+heart_cleveland_upload- the dataset used
+
 
 # 📊 Visualizations Included
 
